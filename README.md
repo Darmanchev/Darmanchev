@@ -10,8 +10,6 @@
 
 ---
 
-### :man_technologist: About Me :
-I'm software engineer
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
