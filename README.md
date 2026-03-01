@@ -11,9 +11,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am an information system student :globe_with_meridians: from Bulgaria/Moldova deeply passionate about technology. <br> <br> 
-My journey includes hands-on hardware experience, from repairing and upgrading PCs and phones to routing, soldering, and crafting electrical circuits. This diverse background has driven my keen interest in full-stack development, where I'm bridging the gap between hardware and software. Beyond the digital world, I find balance on the basketball court and unwind with books and airsoft battles. In five years, I envision myself as a full-stack developer, making a meaningful impact on technology in Africa(It's a joke about Africa). Join me on GitHub as I share my growth and innovation in this dynamic field.
-
+I'm software engineer
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
