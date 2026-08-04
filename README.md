@@ -15,7 +15,7 @@ I am a student developer interested in backend systems, data and machine learnin
 - [HoopStats](https://github.com/Darmanchev/HoopStats) — NBA data dashboard with FastAPI, React and match predictions. [Live demo](https://hoopstats.openhorizonlabs.xyz)
 - [Instant Messenger](https://github.com/Darmanchev/instant-messenger-fmi-webtech26) — real-time chat with JWT authentication and WebSockets.
 - [DevLog](https://github.com/Darmanchev/DevLog) — Django blog and Bulgarian RSS news reader. [Live demo](https://devlog.openhorizonlabs.xyz/)
-- [SnipLingo OCR Translate](https://addons.mozilla.org/en-US/firefox/addon/sniplingo-ocr-translate/) — Firefox add-on for OCR and translation.
+- [SnipLingo OCR Translate](https://addons.mozilla.org/en-US/firefox/addon/sniplingo-ocr-translate/) — Firefox add-on for OCR and translation. [Live demo](https://addons.mozilla.org/en-US/firefox/addon/sniplingo-ocr-translate/)
 - [NBA Analysis](https://github.com/Darmanchev/nba-analysis) — classification, grouped validation, clustering and SHAP explanations.
 - [Banking Data Warehouse](https://github.com/Darmanchev/banking-data-warehouse) — raw-to-star-schema SQL pipeline in PostgreSQL.
 - [Deep Learning FMI](https://github.com/Darmanchev/deeplearning-fmi) — image classification and sequence-model assignments.
