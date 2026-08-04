@@ -21,7 +21,3 @@ I am a student developer interested in backend systems, data and machine learnin
 - [Stas Cakes Shop](https://github.com/Darmanchev/cakes-shop) — Next.js and Prisma MVP for a home bakery.
 - [House Price Predictor](https://github.com/Darmanchev/house-price-predictor) — interpretable linear-regression experiment on UCI data.
 - [BitMapper CLI](https://github.com/Darmanchev/BitMapper-CLI-project) — C++ image editor for PBM, PGM and PPM files.
-
-## How I work
-
-I like projects where I can understand the whole flow: how data enters the system, how the backend processes it and how a user sees the result. These repositories are learning projects, so I keep the unfinished parts visible and document what I would improve next.
